@@ -1,4 +1,16 @@
-# Stegno
+    
+     ____     __                                        
+    /\  _`\  /\ \__                                     
+    \ \,\L\_\\ \ ,_\     __      __      ___      ___   
+     \/_\__ \ \ \ \/   /'__`\  /'_ `\  /' _ `\   / __`\ 
+       /\ \L\ \\ \ \_ /\  __/ /\ \L\ \ /\ \/\ \ /\ \L\ \
+       \ `\____\\ \__\\ \____\\ \____ \\ \_\ \_\\ \____/
+        \/_____/ \/__/ \/____/ \/___L\ \\/_/\/_/ \/___/ 
+                                 /\____/                
+                                 \_/__/                 
+    
+
+
 *A Basic Console Based Implementaion Of Stegnograpy For Images with Python*
 
 - To Run The Programm first install cryptosteganography by typing following command in Termianal
@@ -43,8 +55,8 @@ Select What You Wnat To  Do:
 
  #### 3. Finally To Exit The Program:
  - Type exit
-	  --> 	exit
-	Thanks FOr Using Stegno_____
+		  --> 	exit
+		Thanks FOr Using Stegno_____
 
- 
+
 
